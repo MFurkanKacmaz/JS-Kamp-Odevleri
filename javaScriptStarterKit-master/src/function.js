@@ -92,6 +92,7 @@ function primeNumbers() {
             } else if (0 == control) {
                 console.log(num + " asal sayıdır")
             }
+
             control = 0
         }
 
@@ -102,3 +103,5 @@ findPrime(2, 5, 8, 21, 13)
 friendNumber(220, 284)
 perfectNumber()
 primeNumbers()
+
+console.log("versiyon2")
